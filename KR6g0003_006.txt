@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:14.253971
+#+DATE: 2015-08-30 20:03:25.775329
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0375
 #+PROPERTY: ID KR6g0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 375
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6g0003_T_006-0637a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大般涅槃經》卷第六¶
+《大般涅槃經》卷第六¶
 ¶
 宋代沙門慧嚴等依泥洹經加之¶
 
-8四依品
-:PROPERTIES:
-:head: 四依品第八
-:END:
-¶
+四依品第八¶
 
 佛復告迦葉：「善男子！是大涅槃微妙經中，¶
 有四種人能護正法、建立正法、憶念正法，¶
@@ -152,8 +147,8 @@
 懼之心，猶行魔業。學大乘者亦復如是，見¶
 諸聲聞怖畏魔事，於此大乘不生信樂，先¶
 以方便降伏諸魔，悉令調善，堪任為乘，因¶
-為廣說種種妙法。聲聞、緣覺見調魔已，不¶
-生怖畏，於此大乘無上正法方生信樂，作¶
+為廣說種種妙法。聲聞、緣覺見調魔已，乃滅¶
+怖畏，於此大乘無上正法方生信樂，作¶
 如是言：『我等從今不應於此正法之中而¶
 作障礙。』
 
