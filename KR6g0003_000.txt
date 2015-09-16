@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大般涅槃經
+#+DATE: 2015-08-30 20:03:15.887166
+#+PROPERTY: JUAN 0
