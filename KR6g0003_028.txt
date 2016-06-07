@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:15.003607
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:05
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0375
 #+PROPERTY: ID KR6g0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 375
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0003_T_028-0786c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《大般涅槃經》卷第二十八¶
+《大般涅槃經》卷第二十八¶
 ¶
 宋代沙門慧嚴等依泥洹經加之¶
 師子吼菩薩品之四¶
@@ -761,7 +760,7 @@
 有三種：一者、般若，二者、毘婆舍那，三¶
 者、闍那。般若者，名一切眾生；毘婆舍那者，¶
 一切聖人；闍那者，諸佛、菩薩。又，般若者，名為¶
-別相；毗婆舍那者，名為總相；闍那者，名為¶
+別相；毘婆舍那者，名為總相；闍那者，名為¶
 破相。
 
 「復有四種，所謂觀四真諦。

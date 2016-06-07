@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:14.461981
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:05
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0375
 #+PROPERTY: ID KR6g0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 375
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0003_T_012-0681c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《大般涅槃經》卷第十二¶
+《大般涅槃經》卷第十二¶
 ¶
 宋代沙門慧嚴等依泥洹經加之¶
 
-:PROPERTIES:
-:head: 聖行品之二
-:END:
-¶
+* 聖行品之二¶
 
 「善男子！云何菩薩摩訶薩住於大乘大般涅¶
 槃觀察集諦？善男子！菩薩摩訶薩觀此集¶
@@ -426,7 +422,7 @@
 諦。
 
 「復次，善男子！譬如一人多有所能，若其¶
-走時則名走者、若收刈時復名刈者、或作¶
+走時則名走者、或收刈時復名刈者、或作¶
 飲食名作食者、若治材木則名工匠、鍛金¶
 銀時言金銀師，如是一人有多名字。法亦¶
 如是，其實是一而有多名。依因父母和合¶

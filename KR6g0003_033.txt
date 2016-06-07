@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:15.180615
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:05
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0375
 #+PROPERTY: ID KR6g0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 375
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0003_T_033-0824a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
-
- 《大般涅槃經》卷第三十三¶
+《大般涅槃經》卷第三十三¶
 ¶
 宋代沙門慧嚴等依泥洹經加之¶
 迦葉菩薩品第二十四之三¶
@@ -861,7 +860,7 @@
 因。如世間人說泥即瓶、縷即是衣，是名因¶
 中說果；果中說因者，牛即水草、人即是食。¶
 我亦如是因中說果，先於經中作是說言：¶
-『我從心身(因心運心，故名心身)至梵天邊。』是名因中¶
+『我從心身(因心運身，故名心身)至梵天邊。』是名因中¶
 說果。果中說因，此六入者名過去業，是名¶
 果中說因。善男子！一切聖人真實無有無漏¶
 果報，一切聖人修道果報更不生漏，是故名¶
